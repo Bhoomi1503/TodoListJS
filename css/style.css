@@ -24,5 +24,13 @@ button{
     color: azure;
     border: none;
     border-radius: 15px;
+    margin: 0 0 0 40px;
+    display: inline;
     
+}
+
+li{
+    list-style-type: none;
+   margin-left: -40px;
+   padding-left: 30px;
 }
